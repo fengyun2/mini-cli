@@ -32,9 +32,9 @@
     "url-loader": "^4.1.1",
     "vue-loader": "^15.9.6",
     "vue-template-compiler": "^2.6.12",
-    "webpack": "^4.32.2",
+    "webpack": "^5.1.1",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.11.2",
+    "webpack-dev-server": "^4.0.0",
     "webpack-merge": "^4.2.1",
     "webpackbar": "^4.0.0"
   }
