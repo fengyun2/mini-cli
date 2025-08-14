@@ -34,7 +34,7 @@
     "execa": "^5.0.0",
     "fs-extra": "^9.1.0",
     "globby": "^11.0.2",
-    "inquirer": "^7.3.3",
+    "inquirer": "^8.2.7",
     "isbinaryfile": "^4.0.6",
     "javascript-stringify": "^2.0.1",
     "lodash.clonedeep": "^4.5.0",
